@@ -1,0 +1,16 @@
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.exe
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.dll
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.AssemblyInfoInputs.cache
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.AssemblyInfo.cs
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.csproj.AssemblyReference.cache
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.dll
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\ref\FarmProduceManagementApp_File.dll
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.pdb
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.deps.json
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.runtimeconfig.json
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.runtimeconfig.dev.json
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\ref\FarmProduceManagementApp_File.dll
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\bin\Debug\net5.0\FarmProduceManagementApp_File.pdb
+C:\Users\USER PC\Desktop\FarmProduceManagementApp_File\obj\Debug\net5.0\FarmProduceManagementApp_File.genruntimeconfig.cache

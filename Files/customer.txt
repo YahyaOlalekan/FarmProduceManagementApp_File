@@ -1,0 +1,4 @@
+CLH/CTM/001	50000	Customer	1	sola	newmail	abk	090	2	Female	False
+CLH/CTM/002	0	Customer	2	Bolu	bol@	abeokuta	070	12	Male	False
+CLH/CTM/003	997000	Customer	3	kola	anoEmail	abokuta	090	1	Male	False
+CLH/CTM/004	1000000	Customer	4	bola	bola@gmail.com	abk	080	123	Male	False

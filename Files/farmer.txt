@@ -1,0 +1,9 @@
+1	CLH/FAR/001	0	Farmer	Pending	ola	new	abeokuta	090	1	Male	False
+2	CLH/FAR/002	0	Farmer	Pending	ade	ade@	abk	090	123	Male	False
+3	CLH/FAR/003	0	Farmer	Pending	soji	soji@	abk	070	1	Male	False
+4	CLH/FAR/004	0	Farmer	Pending	yemi	yemi@	abk	060	1	Male	False
+5	CLH/FAR/005	0	Farmer	Pending	oni	oni@	osogbo	070	123	Male	False
+6	CLH/FAR/006	0	Farmer	Pending	sade	mynewemail	ibadan	090	1	Female	False
+7	CLH/FAR/007	0	Farmer	Pending	joke	joke@	sango	090	1	Male	False
+8	CLH/FAR/008	0	Farmer	Pending	sanjo	sanjo@	abeokuta	090	123	Male	False
+9	CLH/FAR/009	0	Farmer	Pending	adewale	adewale@	abk	090	123	Male	False

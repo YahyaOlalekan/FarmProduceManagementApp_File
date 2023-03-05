@@ -1,0 +1,8 @@
+namespace FarmProduceManagementApp_File.enums
+{
+    public enum Gender
+    {
+        Male = 1,
+        Female, 
+    }
+}
